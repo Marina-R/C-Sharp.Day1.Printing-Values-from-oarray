@@ -1,0 +1,6 @@
+c:\users\maryna\documents\visual studio 2013\Projects\PrintingValuesFromArray\PrintingValuesFromArray\bin\Debug\PrintingValuesFromArray.exe.config
+c:\users\maryna\documents\visual studio 2013\Projects\PrintingValuesFromArray\PrintingValuesFromArray\bin\Debug\PrintingValuesFromArray.exe
+c:\users\maryna\documents\visual studio 2013\Projects\PrintingValuesFromArray\PrintingValuesFromArray\bin\Debug\PrintingValuesFromArray.pdb
+c:\users\maryna\documents\visual studio 2013\Projects\PrintingValuesFromArray\PrintingValuesFromArray\obj\Debug\PrintingValuesFromArray.csprojResolveAssemblyReference.cache
+c:\users\maryna\documents\visual studio 2013\Projects\PrintingValuesFromArray\PrintingValuesFromArray\obj\Debug\PrintingValuesFromArray.exe
+c:\users\maryna\documents\visual studio 2013\Projects\PrintingValuesFromArray\PrintingValuesFromArray\obj\Debug\PrintingValuesFromArray.pdb
